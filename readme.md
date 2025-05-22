@@ -26,7 +26,7 @@
 ## 安装
 
 ```
-go get github.com/byteshield-cloud/golang.api.sdk.v2
+go get github.com/byteshield-cloud/golang.api.sdk.v5
 ```
 
 ### 使用
@@ -37,7 +37,7 @@ package main
 
 import (
         "os"
-        sdk "github.com/byteshield-cloud/golang.api.sdk.v2"
+        sdk "github.com/byteshield-cloud/golang.api.sdk.v5"
         "fmt"
 )
 
